@@ -7,6 +7,10 @@
 
 ---
 
+## 📷 Robotic Arm Image
+
+![image](docs/overlook.png)
+
 ## 🚀 Project Overview
 
 A professional **6 Degrees of Freedom (6-DOF) Robotic Arm** built using **Arduino Mega 2560**, high-torque servo motors, and Bluetooth communication.
@@ -317,12 +321,6 @@ T6 = End Effector Rotation
 Add your generated circuit diagram here:
 
 ![image](docs/circuit_diagram.png)
-
----
-
-## 📷 Robotic Arm Image
-
-![image](docs/overlook.png)
 
 ---
 
