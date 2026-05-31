@@ -316,17 +316,13 @@ T6 = End Effector Rotation
 
 Add your generated circuit diagram here:
 
-```markdown
-![Circuit Diagram](docs/circuit_diagram.png)
-```
+![image](docs/circuit_diagram.png)
 
 ---
 
 ## 📷 Robotic Arm Image
 
-```markdown
-![Robot Arm](docs/overlook.png)
-```
+![image](docs/overlook.png)
 
 ---
 
